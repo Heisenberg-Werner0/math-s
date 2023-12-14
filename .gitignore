@@ -1,0 +1,8 @@
+# For Mac
+.DS_Store
+
+# For Jetbrains IDE
+.idea
+
+# For CMake
+cmake-build-debug

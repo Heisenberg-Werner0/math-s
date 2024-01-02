@@ -7,7 +7,5 @@ include_directories(include)
 
 add_executable(math_s
         example/main-example.cpp
-        src/number/fraction.cpp
-        src/number/integer.cpp
 
 )

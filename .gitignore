@@ -4,5 +4,10 @@
 # For Jetbrains IDE
 .idea
 
-# For CMake
+# For VSCode
+.vscode
+
+# For Build
 cmake-build-debug
+build
+.cache

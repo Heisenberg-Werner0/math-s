@@ -7,5 +7,4 @@ include_directories(include)
 
 add_executable(math_s
         example/main-example.cpp
-
 )
